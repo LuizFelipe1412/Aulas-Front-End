@@ -1,0 +1,13 @@
+#box-model-t3{
+    margin: 25px;
+    padding: 25px;
+    border: 10px solid rgb(4, 73, 15);
+    outline: 10px solid rgb(4, 73, 15);
+    background-color: rgb(76, 0, 163);
+}
+
+.title-t3{
+    background-color: black;
+    color: white;
+    border: none;
+}
